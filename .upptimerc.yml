@@ -19,6 +19,11 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+notifications:
+  - type: discord
+    discord:
+      webhookUrl: ${{ secrets.DISCORD_WEBHOOK }}
+      mention: '<@&1118277284042919966>'
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
