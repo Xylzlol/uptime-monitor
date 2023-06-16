@@ -4,17 +4,19 @@
     "url": "https://xylz.tv",
     "icon": "https://icons.duckduckgo.com/ip3/xylz.tv.ico",
     "slug": "xylz-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 174,
-    "timeWeek": 171,
-    "timeMonth": 171,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 163,
+    "timeDay": 169,
+    "timeWeek": 163,
+    "timeMonth": 163,
+    "timeYear": 163,
+    "dailyMinutesDown": {
+      "2023-06-16": 0
+    }
   }
 ]
