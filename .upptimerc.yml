@@ -7,6 +7,13 @@ sites:
     url: https://xylz.tv
   - name: xylz.tv Backend
     url: https://xylz.tv/rest/mainlist
+    method: GET
+  - name: GD API
+    url: https://xylz.tv/getlevel
+    method: POST
+    body: '{"levelId":"128"}'
+    headers:
+      Content-Type: application/json
 
 
 status-website:
