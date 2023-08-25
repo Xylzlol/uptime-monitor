@@ -5,6 +5,9 @@ repo: uptime-monitor # The name of this repository
 sites:
   - name: xylz.tv
     url: https://xylz.tv
+  - name: xylz.tv Backend
+    url: https://xylz.tv/rest/mainlist
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
