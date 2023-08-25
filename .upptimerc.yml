@@ -9,11 +9,11 @@ sites:
     url: https://xylz.tv/rest/mainlist
     method: GET
   - name: GD API
-    url: https://xylz.tv/getlevel
     method: POST
-    body: '{"levelId":"128"}'
+    url: https://xylz.tv/getlevel
     headers:
-      Content-Type: application/json
+      - "Content-Type: application/json"
+    body: '{ "levelId": "128" }'
 
 
 status-website:
