@@ -5,20 +5,38 @@
     "icon": "https://icons.duckduckgo.com/ip3/xylz.tv.ico",
     "slug": "xylz-tv",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.65%",
-    "time": 164,
-    "timeDay": 198,
+    "uptimeYear": "98.67%",
+    "time": 165,
+    "timeDay": 179,
     "timeWeek": 186,
     "timeMonth": 169,
-    "timeYear": 164,
+    "timeYear": 165,
     "dailyMinutesDown": {
       "2023-06-18": 1265,
       "2023-06-17": 115,
       "2023-06-16": 13
     }
+  },
+  {
+    "name": "xylz.tv Backend",
+    "url": "https://xylz.tv/rest/mainlist",
+    "icon": "https://icons.duckduckgo.com/ip3/xylz.tv.ico",
+    "slug": "xylz-tv-backend",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 44,
+    "timeDay": 44,
+    "timeWeek": 44,
+    "timeMonth": 44,
+    "timeYear": 44,
+    "dailyMinutesDown": {}
   }
 ]
