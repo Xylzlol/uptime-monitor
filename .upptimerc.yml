@@ -29,14 +29,6 @@ status-website:
     - title: Status
       href: /
 
-workflowSchedule:
-  graphs: "0 */30 * * *"        # Every 30 hours (twice a day)
-  responseTime: "0 */15 * * *"  # Every 15 hours (four times a day)
-  staticSite: "0 2 * * *"       # Once a day at 2:00 AM
-  summary: "0 3 * * *"          # Once a day at 3:00 AM
-  updateTemplate: "0 6 * * *"   # Once a day at 6:00 AM
-  updates: "0 12 * * *"         # Once a day at 12:00 PM
-  uptime: "*/10 * * * *"        # Every 10 minutes
 
 
 # Upptime also supports notifications, assigning issues, and more
