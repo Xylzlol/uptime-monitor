@@ -4,18 +4,19 @@
     "url": "https://xylz.tv",
     "icon": "https://icons.duckduckgo.com/ip3/xylz.tv.ico",
     "slug": "xylz-tv",
-    "status": "up",
+    "status": "down",
     "uptime": "98.68%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.68%",
     "time": 165,
-    "timeDay": 172,
-    "timeWeek": 185,
+    "timeDay": 171,
+    "timeWeek": 186,
     "timeMonth": 169,
     "timeYear": 165,
     "dailyMinutesDown": {
+      "2023-08-26": 0,
       "2023-06-18": 1265,
       "2023-06-17": 115,
       "2023-06-16": 13
@@ -26,35 +27,39 @@
     "url": "https://xylz.tv/rest/mainlist",
     "icon": "https://icons.duckduckgo.com/ip3/xylz.tv.ico",
     "slug": "xylz-tv-backend",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.97%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
     "time": 33,
     "timeDay": 33,
     "timeWeek": 33,
     "timeMonth": 33,
     "timeYear": 33,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-26": 0
+    }
   },
   {
     "name": "GD API",
     "url": "https://xylz.tv/getlevel",
     "icon": "https://icons.duckduckgo.com/ip3/xylz.tv.ico",
     "slug": "gd-api",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 357,
     "timeDay": 357,
     "timeWeek": 357,
     "timeMonth": 357,
     "timeYear": 357,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-08-26": 0
+    }
   }
 ]
