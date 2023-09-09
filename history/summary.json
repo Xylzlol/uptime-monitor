@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/xylz.tv.ico",
     "slug": "xylz-tv",
     "status": "up",
-    "uptime": "98.87%",
+    "uptime": "98.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
-    "uptimeYear": "98.87%",
+    "uptimeYear": "98.88%",
     "time": 166,
-    "timeDay": 284,
-    "timeWeek": 191,
-    "timeMonth": 185,
+    "timeDay": 178,
+    "timeWeek": 190,
+    "timeMonth": 186,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2023-08-26": 3,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 412,
-    "timeDay": 42,
-    "timeWeek": 65,
-    "timeMonth": 412,
-    "timeYear": 412,
+    "time": 399,
+    "timeDay": 139,
+    "timeWeek": 72,
+    "timeMonth": 399,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2023-08-26": 2
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 374,
-    "timeDay": 321,
+    "time": 375,
+    "timeDay": 397,
     "timeWeek": 379,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "timeMonth": 375,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2023-08-26": 2
     }
