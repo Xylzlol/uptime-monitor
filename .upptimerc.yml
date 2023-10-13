@@ -14,6 +14,8 @@ sites:
     headers:
     - "Authorization: Bearer $TOKEN"
     body: '{ "levelId": "128" }'
+  - name: Minecraft Server
+    url: tcp://play.xylz.tv:25565
 
 
 status-website:
