@@ -15,7 +15,8 @@ sites:
     - "Authorization: Bearer $TOKEN"
     body: '{ "levelId": "128" }'
   - name: Minecraft Server
-    url: tcp://play.xylz.tv:25565
+    url: https://api.mcstatus.io/v2/status/java/play.xylz.tv
+    __dangerous__body_down_if_text_missing: '"online":true'
 
 
 status-website:
