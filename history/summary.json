@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.20%",
     "time": 166,
-    "timeDay": 240,
-    "timeWeek": 240,
-    "timeMonth": 240,
+    "timeDay": 243,
+    "timeWeek": 243,
+    "timeMonth": 243,
     "timeYear": 166,
     "dailyMinutesDown": {
       "2023-08-26": 3,
@@ -49,7 +49,7 @@
     "slug": "gd-api",
     "status": "up",
     "uptime": "30.54%",
-    "uptimeDay": "1.58%",
+    "uptimeDay": "1.60%",
     "uptimeWeek": "0.23%",
     "uptimeMonth": "1.43%",
     "uptimeYear": "30.54%",
@@ -103,18 +103,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.mcstatus.io.ico",
     "slug": "minecraft-server",
     "status": "up",
-    "uptime": "2.30%",
-    "uptimeDay": "2.30%",
-    "uptimeWeek": "2.30%",
-    "uptimeMonth": "2.30%",
-    "uptimeYear": "2.30%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 580,
     "timeDay": 580,
     "timeWeek": 580,
     "timeMonth": 580,
     "timeYear": 580,
-    "dailyMinutesDown": {
-      "2023-10-13": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
