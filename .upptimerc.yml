@@ -12,8 +12,7 @@ sites:
     method: POST
     url: https://xylz.tv/getlevel
     headers:
-      - "Content-Type: application/json"
-      - "Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImdpdGh1YiIsInBlcm1pc3Npb25fbGV2ZWwiOjAsImlhdCI6MTY5NzE5OTI0MiwiZXhwIjoxNjk5NzkxMjQyfQ.EgdsCH65mpQBID1kCYFvc98GZLmZaqrXAzk_wPuBCuo"
+    - "Authorization: Bearer $TOKEN"
     body: '{ "levelId": "128" }'
 
 
