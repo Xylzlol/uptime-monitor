@@ -1,7 +1,7 @@
 url: https://api.mcstatus.io/v2/status/java/play.xylz.tv
-status: down
+status: up
 code: 200
-responseTime: 545
-lastUpdated: 2023-10-14T21:25:11.953Z
+responseTime: 719
+lastUpdated: 2023-10-14T21:37:27.706Z
 startTime: 2023-10-13T12:55:04.559Z
 generator: Upptime <https://github.com/upptime/upptime>
